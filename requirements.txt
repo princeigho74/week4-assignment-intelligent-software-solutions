@@ -1,0 +1,34 @@
+# Python Requirements for AI Software Solutions Assignment
+# Python 3.8+
+
+# Data Science & Machine Learning
+pandas==2.1.3
+numpy==1.24.3
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Automated Testing
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Jupyter Notebooks
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.26.0
+
+# AI Fairness
+aif360==0.5.0
+
+# Utility Libraries
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Code Quality
+black==23.11.0
+flake8==6.1.0
+pylint==3.0.3
+
+# Optional: For bonus documentation tool prototype
+# openai==1.3.7
+# anthropic==0.7.0
