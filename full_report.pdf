@@ -1,5 +1,5 @@
 **Course:** AI in Software Engineering
-**Instructor:** [Happy Igho Umukoro]
+**Instructor:** [Evans Mutuku]
 **Submission Date:** October 30, 2025
 
 ---
@@ -557,11 +557,11 @@ GitHub: github.com/[username]/ai-software-solutions"
 
 ### Author Contact
 
-**Name:** [Your Full Name]
-**Email:** [your.email@example.com]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
-**Phone:** [Your Phone Number] (for urgent queries only)
+**Name:** [Happy Igho Umukoro]
+**Email:** [princeigho74@gmail.com]
+**LinkedIn:** [linkedin.com/in/princeigho74]
+**GitHub:** [github.com/princeigho74]
+**Phone:** [+2348065292102] (for urgent queries only)
 
 **Office Hours (for questions):**
 - Mondays: 2:00 PM - 4:00 PM
@@ -1460,7 +1460,7 @@ ai-software-solutions/
     └── prototype/
 ```
 
-**Repository Link:** https://github.com/[username]/ai-software-solutions
+**Repository Link:** https://github.com/[https://github.com/princeigho74/week4-assignment-intelligent-software-solutions/edit/main]/ai-software-solutions
 
 ### Appendix B: Experimental Results Data
 
@@ -1525,7 +1525,7 @@ High Priority:
 **Installation Steps:**
 ```bash
 # Clone repository
-git clone https://github.com/[username]/ai-software-solutions.git
+git clone https://github.com/[princeigho74]/ai-software-solutions.git
 cd ai-software-solutions
 
 # Create virtual environment
@@ -1564,9 +1564,9 @@ All screenshots are available in the `docs/images/` directory of the GitHub repo
 **Last Updated:** October 30, 2025
 **Total Pages:** 87
 **Word Count:** ~28,500
-**Author:** [Your Name]
-**Email:** [your.email@example.com]
-**Institution:** [Your Institution]
+**Author:** [Happy Igho Umukoro]
+**Email:** [princeigho74@gmail.com]
+**Institution:** [PLP Academy]
 **Course:** AI in Software Engineering
 ****Model Behavior:**
 - Conservative: Predicts "Low" priority most frequently
@@ -2507,10 +2507,10 @@ requirements = extract_requirements(issues)
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Happy Igho Umukoro  
 **Date:** October 30, 2025  
 **Course:** AI in Software Engineering  
-**Institution:** [Your Institution]
+**Institution:** PLP Academy
 
 ---
 
@@ -2574,7 +2574,7 @@ The assignment follows a structured approach:
 - Ethical evaluation using established frameworks
 - Innovation through design thinking and problem analysis
 
-**[INSERT SCREENSHOT 1: Assignment Overview Dashboard]**
+**[https://imgur.com/gallery/al-software-assignment-B6mLHzh#kkfimBv SCREENSHOT 1: Assignment Overview Dashboard]**
 *Figure 1.1: Interactive assignment overview showing all components*
 
 ---
@@ -3227,7 +3227,7 @@ sorted_employees = manual_bubble_sort(employees, 'salary')
 - Space Complexity: O(1) for swaps
 - Lines of Code: 10
 
-**[INSERT SCREENSHOT 2: Task 1 Code Implementation]**
+**[https://imgur.com/gallery/al-software-assignment-B6mLHzh#2hYRn9c SCREENSHOT 2: Task 1 Code Implementation]**
 *Figure 3.1: Side-by-side comparison of AI vs manual implementation*
 
 #### 3.1.3 Performance Benchmarking
@@ -3382,7 +3382,7 @@ def test_sql_injection_attempt(self):
     self.test_results['passed'] += 1
 ```
 
-**[INSERT SCREENSHOT 3: Task 2 Automated Testing Results]**
+**[https://imgur.com/gallery/al-software-assignment-B6mLHzh#YmsulDe SCREENSHOT 3: Task 2 Automated Testing Results]**
 *Figure 3.2: Test execution results showing 100% pass rate*
 
 #### 3.2.4 Test Execution Results
@@ -3569,7 +3569,7 @@ cv_scores = cross_val_score(model, X_train_scaled, y_train,
 print(f"CV F1-Score: {cv_scores.mean():.4f} (+/- {cv_scores.std()*2:.4f})")
 ```
 
-**[INSERT SCREENSHOT 4: Task 3 Predictive Analytics Dashboard]**
+**[https://imgur.com/gallery/al-software-assignment-B6mLHzh#NBf91nU SCREENSHOT 4: Task 3 Predictive Analytics Dashboard]**
 *Figure 3.3: Model performance metrics and feature importance visualization*
 
 #### 3.3.4 Model Performance
