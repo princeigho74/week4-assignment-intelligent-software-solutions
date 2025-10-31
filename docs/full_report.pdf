@@ -1,16 +1,12 @@
 # Building Intelligent Software Solutions
 ## AI Applications in Software Engineering
 
----
-
 **Author:** Happy Igho Umukoro  
 **Email:** princeigho74@gmail.com  
 **Date:** October 30, 2025  
 **Course:** AI in Software Engineering  
 **Instructor:** Evans Mutuku  
 **Institution:** PLP Academy
-
----
 
 # Executive Summary
 
@@ -23,8 +19,6 @@ This report demonstrates the transformative impact of AI in software engineering
 - **92.98% accuracy** in ML-based priority prediction model
 - **Comprehensive ethical analysis** with bias mitigation strategies
 - **AutoDocAI innovation proposal** with $426K annual ROI projection
-
----
 
 # Part 1: Theoretical Analysis
 
@@ -56,7 +50,6 @@ This report demonstrates the transformative impact of AI in software engineering
 
 **Mitigation:** Always review AI code, use static analysis, maintain coding standards, continue developer education.
 
----
 
 ## Question 2: Supervised vs Unsupervised Learning in Bug Detection
 
@@ -109,7 +102,6 @@ This report demonstrates the transformative impact of AI in software engineering
 
 **Best Practice:** Hybrid approach combining both methods achieves 90% detection with 15% false positives.
 
----
 
 ## Question 3: Bias Mitigation in UX Personalization
 
@@ -160,7 +152,6 @@ This report demonstrates the transformative impact of AI in software engineering
 - Transparency and explainability
 - User appeal mechanisms
 
----
 
 ## Case Study: AIOps in DevOps
 
@@ -207,7 +198,6 @@ This report demonstrates the transformative impact of AI in software engineering
 - +$20M revenue from faster features
 - **ROI: 460% in Year 1**
 
----
 
 # Part 2: Practical Implementation
 
@@ -331,7 +321,6 @@ AI achieves broader scenario coverage by automatically generating edge cases hum
 
 AI provides intelligent result analysis, automatically categorizing failures by root cause and prioritizing critical issues. Self-healing capabilities update test scripts automatically when applications change, reducing maintenance overhead by 60-80%. This enables continuous testing at scale essential for modern CI/CD pipelines, while manual testing remains bottlenecked by human capacity and consistency limitations.
 
----
 
 ## Task 3: Predictive Analytics for Resource Allocation
 
@@ -407,8 +396,6 @@ Net Benefit:         $350,600
 ROI:                 3,371%
 Payback Period:      11 days
 ```
-
----
 
 # Part 3: Ethical Reflection
 
@@ -517,7 +504,6 @@ Result: Misses 55% of high-priority issues
 Cost: $275,000 in lost productivity
 ```
 
----
 
 ## IBM AI Fairness 360: Mitigation Strategies
 
@@ -595,7 +581,6 @@ eq_odds = EqOddsPostprocessing(
 - Cross-functional ethics review board
 - Public transparency reports
 
----
 
 # Bonus Task: AutoDocAI Innovation
 
@@ -741,7 +726,6 @@ Year 2: 350 customers → $2.5M ARR
 Year 3: 800 customers → $6.8M ARR
 ```
 
----
 
 # Conclusion
 
@@ -814,7 +798,6 @@ As software engineers in the AI era, we have a responsibility to build systems t
 
 **The future of software engineering is not human versus AI—it's human plus AI, working together to build better, fairer, and more efficient systems that serve all of humanity.**
 
----
 
 # References
 
@@ -875,7 +858,6 @@ High Priority:   TP=25, FN=1, FP=2, TN=86
 - **ROI:** Return on Investment
 - **TPR:** True Positive Rate
 
----
 
 ## Document Information
 
@@ -885,15 +867,11 @@ High Priority:   TP=25, FN=1, FP=2, TN=86
 **Format:** PDF-optimized Markdown  
 **Status:** Ready for conversion
 
----
+Submission Checklist:
 
-**Submission Checklist:**
-- ✅ All sections complete
-- ✅ Screenshots integrated
-- ✅ Tables formatted
-- ✅ Code blocks styled
-- ✅ References included
-- ✅ Contact info updated
-- ✅ Ready for Google Docs/Word conversion
-
-**END OF SIMPLIFIED REPORT**
+✅ All sections complete
+✅ Screenshots integrated
+✅ Tables formatted
+✅ Code blocks styled
+✅ References included
+✅ Contact info 
