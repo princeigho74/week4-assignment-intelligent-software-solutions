@@ -445,7 +445,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Assignment Submission:**
 - **Code Repository**: [https://github.com/princeigho74/week4-assignment-intelligent-software-solutions/tree/main ]
 - **Report Article**: [Community Article Link]
-- **Video Demo**: [Video Link]
+- **Video Demo**: https://youtu.be/rGhR2HvWOy0?si=b8xNuaJNpHq8xqxS
 - **Submission Date**: October 30, 2025
 
 Made with ❤️ and 🤖 AI
